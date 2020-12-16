@@ -1,0 +1,8 @@
+Pasos para ingresar a la WEB Agenda en PHP
+1. Iniciar servicios Apache y MySQL en Control Panel XAMPP
+2. Importar BDs agenda_db del archivo agenda_db.sql
+3. Copiar proyecto en carpeta D:\xampp\htdocs
+4. Abrir Chroome - http://localhost/Agenda_php/client/
+
+Creación Usuario
+- Ejecutar create_user.php
